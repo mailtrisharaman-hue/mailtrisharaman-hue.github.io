@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Khaana - Our Services</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      margin: 0;
+      background: #fff;
+      color: #111;
+      line-height: 1.6;
+    }
+    header {
+      text-aligh: center;
+      padding: 3rem 1 rem;
+      background: #000;
+      color: #fff;
+    }
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem; 
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #ddd;
+    }
+    section {
+      padding: 3 rem 1.5rem;
+      max-width: 800px;
+      margin: auto;
+      border-bottom: 1px solid #eee;
+    }
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      font-family: Georgia, serif;
+    }
+    section p {
+      font-size: 1.1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      background: #000;
+      color: #fff;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Khaana<h1>
+  </header>
+
+  <section>
+    <h2>What We Offer</h2>
+    <p>At Khaana, we believe food is more than just nourishment — it’s connection, culture, and comfort. Our services are designed to bring people together around the joy of fresh, handcrafted treats.</p>
+  </section>
+
+  <section>
+    <h2>Café Experience<h2>
+    <p>Khaana is more than a bakery — it’s a spot to enjoy fresh, wholesome food any time of day. Come in for a warm, relaxed café experience with pastries, breads, and a menu that changes with the seasons. Whether you’re picking up a hummus wrap on your lunch break or sitting down with a coffee and a slice of cake, Khaana is meant to feel comfortable and familiar, like home.</p>
+  </section>
+
+  <section>
+    <h2>Online Ordering & Delivery</h2>
+      <p>Not everyone has time to drop by, so we make it simple to bring Khaana to you. Our online ordering system is easy to use, and everything is packed so it stays fresh until it gets to your door. You can order a single meal, set up a weekly box, or just grab your favorite pastries without leaving home. It’s a way to enjoy Khaana’s food even on your busiest days.</p>
+  </section>
+
+  <section>
+    <h2>Catering & Events</h2>
+    <p>Food brings people together, and that’s what our catering is all about. Whether it’s an office lunch, a birthday, or a small gathering with friends, we put together spreads that are easy to share and full of flavor. From trays of sandwiches and pastries to custom cakes for big moments, we’ll work with you to make sure the food fits the occasion.</p>
+  </section>
+
+  <footer>
+    <p>2025 Khaana - All Rights Reserved</p>
+  </footer>
+</body>
+</html
